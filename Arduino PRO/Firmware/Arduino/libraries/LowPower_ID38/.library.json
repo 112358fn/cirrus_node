@@ -1,0 +1,32 @@
+{
+    "name": "LowPower", 
+    "repository": {
+        "url": "https://github.com/rocketscream/Low-Power.git", 
+        "type": "git"
+    }, 
+    "author": {
+        "url": "http://www.rocketscream.com", 
+        "name": "Rocket Scream"
+    }, 
+    "frameworks": [
+        "arduino"
+    ], 
+    "version": "1908a1f730", 
+    "authors": [
+        {
+            "maintainer": false, 
+            "name": "rocketscream", 
+            "url": "https://github.com/rocketscream", 
+            "email": null
+        }
+    ], 
+    "keywords": [
+        "power", 
+        "efficient"
+    ], 
+    "platforms": [
+        "atmelavr"
+    ], 
+    "id": 38, 
+    "description": "Low Power Library"
+}
