@@ -1,5 +1,5 @@
 # Nodes of Sensor Cirrus
-On Sensor Cirrus nodes are basically a microprocessor that has attached sensors and an XBee End-Device
+On Sensor Cirrus nodes are basically a microprocessor that has attached sensors and a XBee End-Device. This node will connect though the XBee with its coordinator(see [cirrus_coordinator](https://github.com/112358fn/cirrus_coordinator)) to transmit the sensor values and receive the refresh date of those readings.   
 
 ## Files
 The files are organized in this way
